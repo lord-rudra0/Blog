@@ -3,3 +3,6 @@ node_modules
 
 #.json
 *.json
+
+# solution.js
+solution.js
